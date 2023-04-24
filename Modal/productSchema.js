@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+ console.log("Product is Cretaed");
 
 const productSchema = mongoose.Schema({
 title:{
