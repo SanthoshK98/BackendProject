@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+console.log("Database Connection was Established");
 
 const productSchema = mongoose.Schema({
 title:{
