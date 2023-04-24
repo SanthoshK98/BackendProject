@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-
+console.log("The user is Registered")
 const userSchema = mongoose.Schema({
 
     name:{
